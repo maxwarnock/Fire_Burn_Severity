@@ -1,0 +1,47 @@
+# Environment for the burn severity notebooks
+
+#   conda env create -f environment.yml
+#   conda activate fire_severity
+
+name: fire_severity
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+
+  # HLS search and login
+  - earthaccess
+
+  # Rasters and vectors
+  - rasterio
+  - rioxarray
+  - xarray
+  - geopandas
+  - pyogrio
+  - shapely
+  - scipy
+
+  # Tables and statistics
+  - numpy
+  - pandas
+  - scikit-learn
+
+  # Figures and basemaps
+  - matplotlib
+  - holoviews
+  - hvplot
+  - geoviews
+  # geoviews 1.15 maps break with cartopy 0.26 (KeyError: 'lon_0')
+  - cartopy<0.26
+  - bokeh
+
+  # Downloads and PDFs
+  - requests
+  - markdown
+
+  # Jupyter
+  - jupyter
+  - notebook
+  - ipykernel
+  - ipywidgets
+  - tqdm
