@@ -1,0 +1,37 @@
+fire,wui_class,severity_class,acres,percent_of_wui_class
+cameron_peak,Not WUI,Enhanced regrowth,740.797223100415,0.3688941702317577
+cameron_peak,Not WUI,Unburned,32057.77187495605,15.963781702361876
+cameron_peak,Not WUI,Low,34212.7779067312,17.036908243804604
+cameron_peak,Not WUI,Moderate-low,29195.99503110852,14.538705093973325
+cameron_peak,Not WUI,Moderate-high,52051.957868837686,25.92026968810668
+cameron_peak,Not WUI,High,52556.34937348846,26.171441101521758
+cameron_peak,Interface,Enhanced regrowth,0.0,
+cameron_peak,Interface,Unburned,0.0,
+cameron_peak,Interface,Low,0.0,
+cameron_peak,Interface,Moderate-low,0.0,
+cameron_peak,Interface,Moderate-high,0.0,
+cameron_peak,Interface,High,0.0,
+cameron_peak,Intermix,Enhanced regrowth,147.44778112145755,1.9722751070918612
+cameron_peak,Intermix,Unburned,2461.9109155573683,32.930747263208
+cameron_peak,Intermix,Low,2326.6948508185355,31.122084721561162
+cameron_peak,Intermix,Moderate-low,1077.725410730895,14.415754402665398
+cameron_peak,Intermix,Moderate-high,1088.4003632102765,14.558543550690148
+cameron_peak,Intermix,High,373.8457316216744,5.000594954783436
+east_troublesome,Not WUI,Enhanced regrowth,215.9453928641558,0.11471737702438956
+east_troublesome,Not WUI,Unburned,20605.549418169543,10.946353381504393
+east_troublesome,Not WUI,Low,28992.503749470307,15.401782549726617
+east_troublesome,Not WUI,Moderate-low,43625.6396502692,23.17539117325986
+east_troublesome,Not WUI,Moderate-high,59143.907027483474,31.419211084699466
+east_troublesome,Not WUI,High,35657.67720378416,18.942544433785272
+east_troublesome,Interface,Enhanced regrowth,4.003107179768079,1.1406844106463878
+east_troublesome,Interface,Unburned,199.04338477180167,56.71736375158428
+east_troublesome,Interface,Low,107.86149901041767,30.73510773130545
+east_troublesome,Interface,Moderate-low,27.132170885094755,7.731305449936629
+east_troublesome,Interface,Moderate-high,12.676506069265582,3.6121673003802277
+east_troublesome,Interface,High,0.2223948433204488,0.06337135614702154
+east_troublesome,Intermix,Enhanced regrowth,25.797801825172062,0.5369127516778524
+east_troublesome,Intermix,Unburned,946.7348480151505,19.703772274936355
+east_troublesome,Intermix,Low,1771.1525322040543,36.86183753760703
+east_troublesome,Intermix,Moderate-low,1305.9025199776754,27.178893774589213
+east_troublesome,Intermix,Moderate-high,675.6355340075235,14.061559824114788
+east_troublesome,Intermix,High,79.61735390872067,1.6570238370747514

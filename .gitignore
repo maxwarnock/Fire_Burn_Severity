@@ -2,9 +2,6 @@
 __pycache__/
 *.pyc
 
-# Intermediate outputs, regenerated on each run
-steps/
-
 # editor and local tool settings
 .vscode/
 

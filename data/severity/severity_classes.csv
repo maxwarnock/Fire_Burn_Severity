@@ -1,0 +1,7 @@
+number,class,starts_at,color
+1,Enhanced regrowth,-inf,#7fff00
+2,Unburned,-100.0,#006400
+3,Low,100.0,#227aff
+4,Moderate-low,270.0,#ffff00
+5,Moderate-high,440.0,#ff9205
+6,High,660.0,#ff0000

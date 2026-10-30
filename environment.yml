@@ -21,10 +21,9 @@ dependencies:
   - shapely
   - scipy
 
-  # Tables and statistics
+  # Tables
   - numpy
   - pandas
-  - scikit-learn
 
   # Figures and basemaps
   - matplotlib
@@ -35,9 +34,8 @@ dependencies:
   - cartopy<0.26
   - bokeh
 
-  # Downloads and PDFs
+  # Downloads
   - requests
-  - markdown
 
   # Jupyter
   - jupyter
